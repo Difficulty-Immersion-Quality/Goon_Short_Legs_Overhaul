@@ -1,0 +1,8 @@
+// ==================================== Shortened Stride ====================================
+
+new entry "Gnome_Speed"
+type "PassiveData"
+using "Gnome_Speed"
+data "Properties" "IsHidden"
+// data "Boosts" "ActionResource(Movement, -1.5, 0)"
+data "Boosts" ""
