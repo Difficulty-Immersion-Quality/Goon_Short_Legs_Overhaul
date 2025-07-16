@@ -1,0 +1,53 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment":"Dwarves",
+			"UUID": "3c9a0bd8-bb0f-4a42-b77f-7a9a1cff2e5d",
+      "Strings": [
+        {
+          "Action": "Remove",
+          "Type": "Boosts",
+          "Strings": ["ActionResource(Movement,7.5,0)"]
+        },
+        {
+          "Action": "Insert",
+          "Type": "Boosts",
+          "Strings": ["ActionResource(Movement,9,0)"]
+        }
+      ]
+    },
+    {
+      "Comment":"Gnomes",
+			"UUID": "d48f8fb3-4351-4b5d-a28c-946fd33be726",
+      "Strings": [
+        {
+          "Action": "Remove",
+          "Type": "Boosts",
+          "Strings": ["ActionResource(Movement,7.5,0)"]
+        },
+        {
+          "Action": "Insert",
+          "Type": "Boosts",
+          "Strings": ["ActionResource(Movement,9,0)"]
+        }
+      ]
+    },
+    {
+      "Comment":"Halflings",
+			"UUID": "963edcba-c572-4f51-b447-8810bbb43a8e",
+      "Strings": [
+        {
+          "Action": "Remove",
+          "Type": "Boosts",
+          "Strings": ["ActionResource(Movement,7.5,0)"]
+        },
+        {
+          "Action": "Insert",
+          "Type": "Boosts",
+          "Strings": ["ActionResource(Movement,9,0)"]
+        }
+      ]
+    }
+	]
+}
